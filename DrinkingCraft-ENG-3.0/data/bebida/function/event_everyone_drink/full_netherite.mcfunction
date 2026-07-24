@@ -1,0 +1,1 @@
+execute unless score $global full_netherite = $global full_netherite run function bebida:event_everyone_drink/full_netherite_actions
