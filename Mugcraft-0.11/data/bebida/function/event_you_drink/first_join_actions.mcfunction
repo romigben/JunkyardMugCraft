@@ -1,6 +1,6 @@
 title @s times 10t 60t 20t
 
-title @s title {"text":"Take a shot","color":"gold","bold":true}
+title @s title {"text":"Drink","color":"gold","bold":true}
 
 playsound minecraft:entity.wither.ambient player @s
 

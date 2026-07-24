@@ -9,6 +9,7 @@ scoreboard objectives add nether dummy
 scoreboard objectives add ender_dragon dummy
 scoreboard objectives add end dummy
 scoreboard objectives add stronghold dummy
+scoreboard objectives add fish dummy
 scoreboard objectives add crafting dummy
 scoreboard objectives add cogu dummy
 scoreboard objectives add return dummy

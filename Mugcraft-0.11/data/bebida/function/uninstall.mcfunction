@@ -2,6 +2,7 @@
 
 # Remove os advancements
 advancement revoke @a only bebida:cogu
+advancement revoke @a only bebida:fish
 advancement revoke @a only bebida:crafting
 advancement revoke @a only bebida:ancient_debris
 advancement revoke @a only bebida:elytra
@@ -27,6 +28,7 @@ scoreboard objectives remove nether
 scoreboard objectives remove ender_dragon
 scoreboard objectives remove end
 scoreboard objectives remove stronghold
+scoreboard objectives remove caught_fish
 scoreboard objectives remove crafting
 scoreboard objectives remove cogu
 scoreboard objectives remove return

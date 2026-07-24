@@ -1,9 +1,7 @@
 title @s times 10t 60t 20t
 
-title @s subtitle {"text":"To drink","color":"white","bold":false}
-
-title @s title {"text":"Choose someone","color":"gold","bold":true}
+title @s title {"text":"Drink","color":"gold","bold":true}
 
 playsound minecraft:entity.experience_orb.pickup player @s
 
-tellraw @a [{"text":"<Mugcraft> ","color":"gold","bold":true},{"selector":"@s","color":"yellow","bold":false},{"text":" has mined a 24K gold ore and can choose someone to drink!","color":"yellow","bold":false}]
+tellraw @a [{"text":"<Mugcraft> ","color":"gold","bold":true},{"selector":"@s","color":"yellow","bold":false},{"text":" has mined a 24K gold ore and must now take a drink!","color":"yellow","bold":false}]

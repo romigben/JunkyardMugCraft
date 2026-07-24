@@ -1,6 +1,6 @@
 title @s times 10t 60t 20t
 
-title @s title {"text":"Drink it all","color":"gold","bold":true}
+title @s title {"text":"Drink","color":"gold","bold":true}
 
 playsound minecraft:block.anvil.place player @s
 
