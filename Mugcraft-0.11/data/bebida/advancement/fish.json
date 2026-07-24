@@ -1,25 +1,22 @@
 {
   "criteria": {
-    "caught_fish": {
-      "trigger": "minecraft:inventory_changed",
+    "fish": {
+      "trigger": "minecraft:fishing_rod_hooked",
       "conditions": {
-        "player": [],
-        "items": [
-          {
-            "items": [
-              "minecraft:cod",
-              "minecraft:salmon",
-              "minecraft:pufferfish",
-              "minecraft:tropical_fish"
-            ]
-          }
-        ]
+        "item": {
+          "items": [
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:pufferfish",
+            "minecraft:tropical_fish"
+          ]
+        }
       }
     }
   },
   "requirements": [
     [
-      "caught_fish"
+      "fish"
     ]
   ],
   "rewards": {
