@@ -39,8 +39,3 @@ A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2
 - Shot the first time you join the server
 
 To remove the datapack cleanly, run ```/function bebida:uninstall``` before deleting it.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0149EW0)
-
-## Other languages
-[![USA](https://cdn.modrinth.com/data/cached_images/2bc64824a9d35794d3f982b385d613c8b5b20f13.png)](https://modrinth.com/datapack/drinkingcraft-eng) [![BR](https://cdn.modrinth.com/data/cached_images/8f056b9e447c97c2e6597c6c3e6f150b037481db.png)](https://modrinth.com/datapack/drinkingcraft)
