@@ -1,1 +1,0 @@
-execute unless score $global nether = $global nether run function bebida:event_everyone_drink/nether_actions
