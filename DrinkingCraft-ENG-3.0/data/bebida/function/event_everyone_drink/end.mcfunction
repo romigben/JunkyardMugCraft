@@ -1,0 +1,1 @@
+execute unless score $global end = $global end run function bebida:event_everyone_drink/end_actions
