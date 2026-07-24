@@ -3,11 +3,11 @@
 # Remove os advancements
 advancement revoke @a only bebida:cogu
 advancement revoke @a only bebida:crafting
-advancement revoke @a only bebida:debris
+advancement revoke @a only bebida:ancient_debris
 advancement revoke @a only bebida:elytra
 advancement revoke @a only bebida:end
 advancement revoke @a only bebida:ender_dragon
-advancement revoke @a only bebida:fortaleza
+advancement revoke @a only bebida:fortress
 advancement revoke @a only bebida:full_dima
 advancement revoke @a only bebida:full_netherite
 advancement revoke @a only bebida:nether
@@ -22,7 +22,7 @@ advancement revoke @a only bebida:warden
 # Remove as travas globais dos eventos
 scoreboard objectives remove full_dima
 scoreboard objectives remove full_netherite
-scoreboard objectives remove debris
+scoreboard objectives remove ancient_debris
 scoreboard objectives remove nether
 scoreboard objectives remove ender_dragon
 scoreboard objectives remove end
@@ -30,7 +30,7 @@ scoreboard objectives remove stronghold
 scoreboard objectives remove crafting
 scoreboard objectives remove cogu
 scoreboard objectives remove return
-scoreboard objectives remove fortaleza
+scoreboard objectives remove fortress
 scoreboard objectives remove trade
 scoreboard objectives remove trial
 scoreboard objectives remove warden
@@ -55,7 +55,7 @@ scoreboard objectives remove esmeralda_deep
 scoreboard objectives remove mortes
 scoreboard objectives remove sem_morrer
 
-# Remove objetivos de equipamentos quebrados (Picaretas)
+# Remove objectives equipment pickaxe
 scoreboard objectives remove w_pick
 scoreboard objectives remove s_pick
 scoreboard objectives remove cu_pick
@@ -64,7 +64,7 @@ scoreboard objectives remove g_pick
 scoreboard objectives remove d_pick
 scoreboard objectives remove n_pick
 
-# Remove objetivos de equipamentos quebrados (Espadas)
+# Remove objectives equipment sword
 scoreboard objectives remove w_sword
 scoreboard objectives remove s_sword
 scoreboard objectives remove cu_sword
@@ -73,7 +73,7 @@ scoreboard objectives remove g_sword
 scoreboard objectives remove d_sword
 scoreboard objectives remove n_sword
 
-# Remove objetivos de equipamentos quebrados (Machados)
+# Remove objectives equipment axes
 scoreboard objectives remove w_axe
 scoreboard objectives remove s_axe
 scoreboard objectives remove cu_axe
@@ -82,7 +82,7 @@ scoreboard objectives remove g_axe
 scoreboard objectives remove d_axe
 scoreboard objectives remove n_axe
 
-# Remove objetivos de equipamentos quebrados (Pas)
+# Remove objectives equipment shovel
 scoreboard objectives remove w_shovel
 scoreboard objectives remove s_shovel
 scoreboard objectives remove cu_shovel
@@ -91,7 +91,7 @@ scoreboard objectives remove g_shovel
 scoreboard objectives remove d_shovel
 scoreboard objectives remove n_shovel
 
-# Remove objetivos de equipamentos quebrados (Enxadas)
+# Remove objectives equipment hoe
 scoreboard objectives remove w_hoe
 scoreboard objectives remove s_hoe
 scoreboard objectives remove cu_hoe
@@ -100,7 +100,7 @@ scoreboard objectives remove g_hoe
 scoreboard objectives remove d_hoe
 scoreboard objectives remove n_hoe
 
-# Remove objetivos de equipamentos quebrados (Lancas)
+# Remove objectives equipment spear
 scoreboard objectives remove w_spear
 scoreboard objectives remove s_spear
 scoreboard objectives remove cu_spear
@@ -109,7 +109,7 @@ scoreboard objectives remove g_spear
 scoreboard objectives remove d_spear
 scoreboard objectives remove n_spear
 
-# Remove objetivos de equipamentos quebrados (Capacetes)
+# Remove objectives equipment helmet
 scoreboard objectives remove l_helmet
 scoreboard objectives remove c_helmet
 scoreboard objectives remove cu_helmet
@@ -119,7 +119,7 @@ scoreboard objectives remove d_helmet
 scoreboard objectives remove n_helmet
 scoreboard objectives remove t_helmet
 
-# Remove objetivos de equipamentos quebrados (Peitorais)
+# Remove objectives equipment chestplate
 scoreboard objectives remove l_chestplate
 scoreboard objectives remove c_chestplate
 scoreboard objectives remove cu_chestplate
@@ -128,7 +128,7 @@ scoreboard objectives remove g_chestplate
 scoreboard objectives remove d_chestplate
 scoreboard objectives remove n_chestplate
 
-# Remove objetivos de equipamentos quebrados (Calcas)
+# Remove objectives equipment leggings
 scoreboard objectives remove l_leggings
 scoreboard objectives remove c_leggings
 scoreboard objectives remove cu_leggings
@@ -137,7 +137,7 @@ scoreboard objectives remove g_leggings
 scoreboard objectives remove d_leggings
 scoreboard objectives remove n_leggings
 
-# Remove objetivos de equipamentos quebrados (Botas)
+# Remove objectives equipment boots
 scoreboard objectives remove l_boots
 scoreboard objectives remove c_boots
 scoreboard objectives remove cu_boots
@@ -146,7 +146,7 @@ scoreboard objectives remove g_boots
 scoreboard objectives remove d_boots
 scoreboard objectives remove n_boots
 
-# Remove objetivos de equipamentos Misc
+# Remove objectives equipment misc
 scoreboard objectives remove shear
 scoreboard objectives remove flint_and_steel
 scoreboard objectives remove fishing_rod
@@ -160,7 +160,7 @@ scoreboard objectives remove mace
 scoreboard objectives remove brush
 scoreboard objectives remove elytra
 
-# Remove a tag init dos jogadores
+# Remove all tag init
 tag @a remove init
 
 # Remove scoreboard
