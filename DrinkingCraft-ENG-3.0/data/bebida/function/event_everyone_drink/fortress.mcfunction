@@ -1,1 +1,0 @@
-execute unless score $global fortress = $global fortress run function bebida:event_everyone_drink/fortress_actions

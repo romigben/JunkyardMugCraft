@@ -1,1 +1,0 @@
-execute unless score $global ancient_debris = $global ancient_debris run function bebida:ancient_debris_actions

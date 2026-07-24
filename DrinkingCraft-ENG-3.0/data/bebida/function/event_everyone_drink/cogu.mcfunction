@@ -1,1 +1,0 @@
-execute unless score $global cogu = $global cogu run function bebida:event_everyone_drink/cogu_actions
