@@ -7,10 +7,12 @@ A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2
 
 ## Conditions
 - Chance for everyone to drink when someone breaks a diamond, except the one who broke it (25%)
-- Chance to choose someone to drink when breaking an emerald (7.5%)
-- Chance to choose someone to drink when breaking gold, including nether gold (7.5%)
-- Chance to choose someone to drink when breaking iron (4%)
-- Chance to choose someone to drink when breaking coal (3%)
+- Drink when breaking an emerald (7.5%)
+- Drink when breaking gold, including nether gold (7.5%)
+- Drink when breaking iron (4%)
+- Drink when breaking coal (3%)
+- Drink when eating food (10%)
+- Drink when eating golden apple (99%)
 - Chance to drink when breaking obsidian (5%)
 - Chance to drink when getting your first Crafting Table (33%)
 - Everyone drinks when the first person finds the mushroom biome, except the one who found it
@@ -20,13 +22,13 @@ A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2
 - Everyone drinks when a Nether Fortress is found
 - Everyone drinks when the Stronghold is found
 - Everyone drinks when the Trial Chambers are discovered
-- Everyone takes a Shot when the End is discovered
-- Everyone takes a Shot when the Ender Dragon is killed for the first time
-- Everyone takes a Shot when the Warden is killed for the first time, except the one who killed it
-- Everyone takes a Shot when the first person gets full netherite armor, except the one who got it
-- The first person to find an Ancient Debris chooses someone to take a Shot
-- The first person to get an Elytra chooses someone to take a Shot
-- The first person to get Return to Sender chooses someone to take a Shot
+- Everyone drinks when the End is discovered
+- Everyone drinks when the Ender Dragon is killed for the first time
+- Everyone drinks when the Warden is killed for the first time, except the one who killed it
+- Everyone drinks when the first person gets full netherite armor, except the one who got it
+- The first person to find an Ancient Debris drinks
+- The first person to get an Elytra drinks
+- The first person to get Return to Sender drinks
 
 - Chance to drink when killing a passive mob (5%)
 - Drink whenever you cheat death with a Totem of Undying
