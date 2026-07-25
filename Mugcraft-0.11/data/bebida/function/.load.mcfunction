@@ -41,6 +41,7 @@ scoreboard objectives add apple2 minecraft.used:minecraft.golden_apple
 scoreboard objectives add drink1 minecraft.used:minecraft.milk_bucket
 scoreboard objectives add drink2 minecraft.used:minecraft.honey_bottle
 scoreboard objectives add drink3 minecraft.used:minecraft.potion
+scoreboard objectives add drink4 minecraft.used:minecraft.suspicious_stew
 
 
 # Diamante
