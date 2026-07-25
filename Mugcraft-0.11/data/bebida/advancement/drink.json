@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "drink": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:milk_bucket",
+            "minecraft:honey_bottle",
+            "minecraft:potion",
+            "minecraft:suspicious_stew"
+          ]
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bebida:event_you_drink/drink"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
