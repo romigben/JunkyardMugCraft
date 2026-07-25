@@ -36,6 +36,7 @@ A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2
 - Finish your drink when you die
 - Drink when you go 10 minutes without dying
 - Drink when your equipment breaks (tools, weapons, armor, spears, elytra, mace and more)
+- Drink when you use a grindstone, smithing table, or anvil
 
 - Shot for the first player to get a Crafting Table
 - Shot the first time you join the server

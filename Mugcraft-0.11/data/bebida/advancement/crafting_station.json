@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "crafting_station": {
+      "trigger": "minecraft:any_block_use",
+      "conditions": {
+        "location": [ 
+         {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "blocks": [
+                        "minecraft:grindstone",
+                        "minecraft:smithing_table",
+                        "minecraft:anvil",
+                        "minecraft:chipped_anvil",
+                        "minecraft:damaged_anvil"
+                    ]
+                }
+            }
+         }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "crafting_station"
+    ]
+  ],
+  "rewards": {
+    "function": "bebida:event_you_drink/crafting_station"
+  },
+  "sends_telemetry_event": false
+}

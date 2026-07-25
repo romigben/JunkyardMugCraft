@@ -2,7 +2,7 @@
 # Feito por EnzuBR
 # (mobs passivos agora sao detectados via advancement bebida:passivos, sem custo por tick)
 
-function bebida:event_everyone_drink/diamante
+function bebida:event_you_drink/diamante
 function bebida:carvao
 function bebida:ferro
 function bebida:event_you_drink/obsidian
