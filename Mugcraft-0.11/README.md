@@ -7,13 +7,13 @@ A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2
 
 ## Conditions
 - Chance for everyone to drink when someone breaks a diamond, except the one who broke it (25%)
-- Drink when breaking an emerald (7.5%)
-- Drink when breaking gold, including nether gold (7.5%)
-- Drink when breaking iron (4%)
-- Drink when breaking coal (3%)
+- Drink when breaking an emerald (80%)
+- Drink when breaking gold, including nether gold (15%)
+- Drink when breaking iron (10%)
+- Drink when breaking coal (5%)
 - Drink when eating food (10%)
 - Drink when eating golden apple (99%)
-- Chance to drink when breaking obsidian (5%)
+- Chance to drink when breaking obsidian (10%)
 - Chance to drink when getting your first Crafting Table (33%)
 - Everyone drinks when the first person finds the mushroom biome, except the one who found it
 - Everyone drinks when the first trade with a Villager happens
@@ -38,7 +38,7 @@ A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2
 - Drink when your equipment breaks (tools, weapons, armor, spears, elytra, mace and more)
 - Drink when you use a grindstone, smithing table, or anvil
 
-- Shot for the first player to get a Crafting Table
-- Shot the first time you join the server
+- Drink for the first player to get a Crafting Table
+- Drink the first time you join the server
 
 To remove the datapack cleanly, run ```/function bebida:uninstall``` before deleting it.
