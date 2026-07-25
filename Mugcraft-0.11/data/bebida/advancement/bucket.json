@@ -1,0 +1,33 @@
+{
+  "criteria": {
+    "bucket": {
+      "trigger": "minecraft:filled_bucket",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:lava_bucket",
+            "minecraft:cod_bucket",
+            "minecraft:milk_bucket",
+            "minecraft:water_bucket",
+            "minecraft:salmon_bucket",
+            "minecraft:axolotl_bucket",
+            "minecraft:tadpole_bucket",
+            "minecraft:pufferfish_bucket",
+            "minecraft:powder_snow_bucket",
+            "minecraft:sulfur_cube_bucket",
+            "minecraft:tropical_fish_bucket"
+          ]
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "bucket"
+    ]
+  ],
+  "rewards": {
+    "function": "bebida:event_you_drink/bucket"
+  },
+  "sends_telemetry_event": false
+}
