@@ -14,6 +14,7 @@ function bebida:event_you_drink/first_join
 function bebida:event_you_drink/quebrou
 function bebida:ouro
 function bebida:esmeralda
+function bebida:go_piss
 
 #Scoreboard
 execute as @a at @s run scoreboard players operation @s DrinkCount.Sidebar = @s DrinkCount.List

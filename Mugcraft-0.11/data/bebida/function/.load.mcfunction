@@ -76,6 +76,9 @@ scoreboard objectives add mortes deathCount
 # Sem morrer
 scoreboard objectives add sem_morrer minecraft.custom:minecraft.time_since_death
 
+# Time since last piss
+scoreboard objectives add go_piss minecraft.custom:minecraft.total_world_time
+
 # Da a tag init a quem ja esta online na instalacao/reload,
 # para que nao tomem o shot de "primeiro join" no meio da sessao
 tag @a[tag=!init] add init
