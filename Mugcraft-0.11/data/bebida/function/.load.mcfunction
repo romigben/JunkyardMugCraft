@@ -4,7 +4,7 @@
 # Travas globais dos eventos de "primeira vez" (dummy)
 scoreboard objectives add full_dima dummy
 scoreboard objectives add full_netherite dummy
-scoreboard objectives add debris dummy
+scoreboard objectives add ancient_debris dummy
 scoreboard objectives add nether dummy
 scoreboard objectives add ender_dragon dummy
 scoreboard objectives add end dummy
@@ -13,7 +13,7 @@ scoreboard objectives add fish dummy
 scoreboard objectives add crafting dummy
 scoreboard objectives add cogu dummy
 scoreboard objectives add return dummy
-scoreboard objectives add fortaleza dummy
+scoreboard objectives add fortress dummy
 scoreboard objectives add trade dummy
 scoreboard objectives add trial dummy
 scoreboard objectives add warden dummy
