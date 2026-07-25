@@ -1,5 +1,5 @@
 # Mugcraft
-A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2 (Chaos Cubed), with pack format ```107.1```. Project inspired by the Datapack "Drunkcraft", which is no longer available, with the purpose of bringing an updated, functional and better version. Made by EnzuBR.
+A Datapack that turns Minecraft into a Drinking Game. Made for Java Edition 26.2 (Chaos Cubed), with pack format ```107.1```. Project inspired by the Datapack "Drunkcraft", which is no longer available, with the purpose of bringing an updated, functional and better version. Made by snappyo10 & VuotoPrisma.
 
 ![Example of how the message appears on screen](https://cdn.modrinth.com/data/cached_images/b196f8e4fc15134906590f1bddff9f377c42d804_0.webp)
 
