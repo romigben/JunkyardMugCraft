@@ -19,6 +19,25 @@ scoreboard objectives add trial dummy
 scoreboard objectives add warden dummy
 scoreboard objectives add elytra_first dummy
 
+scoreboard objectives add food1 minecraft.used:minecraft.apple
+scoreboard objectives add food2 minecraft.used:minecraft.bread
+scoreboard objectives add food3 minecraft.used:minecraft.carrot
+scoreboard objectives add food4 minecraft.used:minecraft.beetroot
+scoreboard objectives add food5 minecraft.used:minecraft.baked_potato
+
+scoreboard objectives add food6 minecraft.used:minecraft.cooked_beef
+scoreboard objectives add food7 minecraft.used:minecraft.cooked_chicken
+scoreboard objectives add food8 minecraft.used:minecraft.cooked_cod
+scoreboard objectives add food9 minecraft.used:minecraft.cooked_mutton
+scoreboard objectives add food10 minecraft.used:minecraft.cooked_salmon
+scoreboard objectives add food11 minecraft.used:minecraft.cooked_porkchop
+scoreboard objectives add food12 minecraft.used:minecraft.cooked_rabbit
+
+scoreboard objectives add apple1 minecraft.used:minecraft.enchanted_golden_apple
+scoreboard objectives add apple2 minecraft.used:minecraft.golden_apple
+
+
+
 # Diamante
 scoreboard objectives add diamante minecraft.mined:minecraft.diamond_ore
 scoreboard objectives add diamante_deep minecraft.mined:minecraft.deepslate_diamond_ore

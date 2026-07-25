@@ -6,6 +6,8 @@ function bebida:event_everyone_drink/diamante
 function bebida:carvao
 function bebida:ferro
 function bebida:event_you_drink/obsidian
+function bebida:event_you_drink/food
+function bebida:event_you_drink/golden_apple
 function bebida:event_you_drink/morte
 function bebida:event_you_drink/sem_morrer
 function bebida:event_you_drink/first_join
