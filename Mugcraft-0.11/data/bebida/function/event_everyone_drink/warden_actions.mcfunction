@@ -4,7 +4,7 @@ title @a subtitle [{"text":"Except ","color":"white","bold":false},{"selector":"
 
 title @s subtitle {"text":"Except you","color":"white","bold":false}
 
-title @a title {"text":"Everyone takes a shot","color":"gold","bold":true}
+title @a title {"text":"Everyone takes a drink","color":"gold","bold":true}
 
 playsound minecraft:entity.wither.ambient player @a
 
