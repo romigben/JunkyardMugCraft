@@ -18,3 +18,6 @@ function bebida:esmeralda
 #Scoreboard
 execute as @a at @s run scoreboard players operation @s DrinkCount.Sidebar = @s DrinkCount.List
 execute as @a at @s run scoreboard players operation @s DrinkCount.Sidebar = @s DrinkCount.BelowName
+
+#Random anvil check
+execute as @a if score @s DrinkCount.List > @s Drink_Last run function bebida:random_anvil

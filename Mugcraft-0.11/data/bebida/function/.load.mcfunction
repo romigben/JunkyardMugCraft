@@ -197,3 +197,8 @@ scoreboard objectives modify DrinkCount.BelowName displayname "Drinks 🍺"
 scoreboard objectives add DrinkCount.Sidebar dummy
 scoreboard objectives modify DrinkCount.Sidebar displayname "Drinks 🍺"
 scoreboard objectives setdisplay sidebar DrinkCount.Sidebar
+
+# Random anvil
+scoreboard objectives add Drink_Last dummy
+scoreboard players set @a Drink_Last 0
+scoreboard objectives add random_roll dummy
