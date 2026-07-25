@@ -19,6 +19,7 @@ scoreboard objectives add trial dummy
 scoreboard objectives add warden dummy
 scoreboard objectives add elytra_first dummy
 scoreboard objectives add bucket dummy
+scoreboard objectives add bed dummy
 
 scoreboard objectives add food1 minecraft.used:minecraft.apple
 scoreboard objectives add food2 minecraft.used:minecraft.bread

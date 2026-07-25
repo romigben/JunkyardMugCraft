@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "bed": {
+      "trigger": "minecraft:slept_in_bed"
+    }
+  },
+  "requirements": [
+    [
+      "bed"
+    ]
+  ],
+  "rewards": {
+    "function": "bebida:event_you_drink/bed"
+  },
+  "sends_telemetry_event": false
+}
