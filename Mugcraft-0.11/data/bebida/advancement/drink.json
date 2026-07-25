@@ -16,8 +16,11 @@
   },
   "requirements": [
     [
-      "bebida:event_you_drink/drink"
+      "drink"
     ]
   ],
+  "rewards": {
+    "function": "bebida:event_you_drink/drink"
+  },
   "sends_telemetry_event": false
 }
